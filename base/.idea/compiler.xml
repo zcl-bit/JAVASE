@@ -9,6 +9,7 @@
         <module name="day06-2022-4-13" />
         <module name="day07-202-4-14" />
         <module name="day08-2022-4-15" />
+        <module name="day09-2022-4-16" />
         <module name="day01-05-2022-4-12" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="day06-2022-4-13" target="16" />
       <module name="day07-202-4-14" target="16" />
       <module name="day08-2022-4-15" target="16" />
+      <module name="day09-2022-4-16" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +27,7 @@
       <module name="day01-05-2022-4-12" options="" />
       <module name="day06-2022-4-13" options="" />
       <module name="day07-202-4-14" options="" />
+      <module name="day08-2022-4-15" options="" />
     </option>
   </component>
 </project>
